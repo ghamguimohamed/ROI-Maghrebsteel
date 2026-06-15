@@ -1,0 +1,7 @@
+pulp
+pandas
+numpy
+openpyxl
+streamlit
+matplotlib
+pytest

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+outputs/_*.log
+outputs/files.zip
+.venv/
+.idea/
+.vscode/
